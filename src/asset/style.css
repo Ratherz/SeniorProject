@@ -1,0 +1,66 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg-bottom {
+  overflow: hidden;
+  background-image: url(img/bgmix.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.notebook img {
+  position: absolute;
+  right: 0;
+  margin-top: 125px;
+  margin-right: 75px;
+  width: 40%;
+}
+
+.text {
+  margin-top: 125px;
+  margin-left: 50px;
+}
+
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  color: #5265ce;
+}
+
+.text-1 {
+  font-family: "Montserrat", sans-serif;
+  color: #fd9f35;
+}
+
+.text-2 {
+  font-size: 20px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  font-family: "Kanit", sans-serif;
+  color: #fd9f35;
+}
+
+.button {
+  font-family: "Kanit", sans-serif;
+}
+
+.btn-light,
+.btn-light:active,
+.btn-light:visited {
+  border-color: #fd9f35;
+  background-color: #fd9f35 !important;
+  color: white;
+  border-radius: 40px;
+}
+
+.btn-light:hover {
+  border-color: #ff8700;
+  background-color: #ff8700 !important;
+  color: white;
+  border-radius: 40px;
+}

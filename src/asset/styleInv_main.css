@@ -1,0 +1,456 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600,800|Kanit:400,300,500|Roboto:700,500|Roboto+Mono:700|Open+Sans:400,600");
+* {
+  box-sizing: border-box;
+}
+.adminoffice {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  width: 1920px;
+}
+.adminoffice .akar-iconssearch {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  padding: 1px;
+  width: 24px;
+}
+.adminoffice .bitable {
+  background-size: 100% 100%;
+  height: 16px;
+  width: 16px;
+}
+.adminoffice .divider {
+  background-color: var(--mercury);
+  height: 1080px;
+  width: 1px;
+}
+.adminoffice .divider-1 {
+  background-color: var(--mercury);
+  height: 1px;
+  margin-top: 58px;
+  width: 255px;
+}
+.adminoffice .divider-2 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 352px;
+  width: 255px;
+}
+.adminoffice .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 83px;
+  margin-top: 52px;
+  min-height: 638px;
+  width: 1441px;
+}
+.adminoffice .fluentcalendar-edit-20-filled {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  margin-top: -1px;
+  padding: 0.8px 0.8px;
+  width: 24px;
+}
+.adminoffice .icomoon-freeexit {
+  align-items: flex-start;
+  display: flex;
+  width: 16px;
+}
+.adminoffice .icon {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  padding: 0 4px;
+  width: 24px;
+}
+.adminoffice .icon-1 {
+  align-items: flex-start;
+  display: flex;
+  width: 24px;
+}
+.adminoffice .iconactiondashboard {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  padding: 0 3px;
+  width: 24px;
+}
+.adminoffice .image-2 {
+  height: 523px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 1435px;
+}
+.adminoffice .navigationeleme-defaultinactive {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  margin-top: 16px;
+  min-width: 255px;
+  padding: 0 16px;
+}
+.adminoffice .navigationeleme-defaultinactive-1 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: 0px;
+  min-width: 255px;
+  padding: 0 16px;
+  position: absolute;
+  top: 204px;
+}
+.adminoffice .navigationeleme-defaultinactive-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  left: 0px;
+  min-width: 255px;
+  padding: 0 8px;
+  position: absolute;
+  top: 252px;
+}
+.adminoffice .navigationeleme-defaultinactive-3 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: 0px;
+  min-width: 255px;
+  padding: 0 16px;
+  position: absolute;
+  top: 300px;
+}
+.adminoffice .navigationeleme-defaultselected {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: 0px;
+  min-width: 255px;
+  padding: 0 16px;
+  position: absolute;
+  top: 156px;
+}
+.adminoffice .navigationeleme-reaavatar-title {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-height: 144px;
+  position: absolute;
+  top: 0px;
+  width: 255px;
+}
+.adminoffice .navigationeleme-tsright-divider {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  height: 1080px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 256px;
+  position: absolute;
+  top: 0px;
+}
+.adminoffice .navigationeleme-ubtitleinactive {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-height: 76px;
+  position: absolute;
+  top: 365px;
+  width: 255px;
+}
+.adminoffice .navigationexamp-vatartitle-menu {
+  align-items: flex-start;
+  display: flex;
+  min-width: 256px;
+}
+.adminoffice .overlap-group {
+  height: 536px;
+  margin-top: 42px;
+  position: relative;
+  width: 1441px;
+}
+.adminoffice .overlap-group1 {
+  height: 1080px;
+  position: relative;
+  width: 256px;
+}
+.adminoffice .overlap-group2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 16px;
+}
+.adminoffice .overlap-group3 {
+  align-items: center;
+  background-color: var(--pattens-blue);
+  border-radius: 4px;
+  display: flex;
+  height: 40px;
+  min-width: 239px;
+  padding: 0 8px;
+}
+.adminoffice .rectangle-577 {
+  background-color: white;
+  height: 58px;
+  left: 361px;
+  position: absolute;
+  top: 219px;
+  width: 393px;
+}
+.adminoffice .rectangle-9 {
+  background-color: white;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+.adminoffice .semi-automatic-exam {
+  left: 16px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 52px;
+}
+.adminoffice .text-1 {
+  letter-spacing: 0.1px;
+  line-height: 21px;
+  margin-bottom: 1px;
+  margin-left: 32px;
+  min-height: 21px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+.adminoffice .text-10 {
+  left: 1320px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: right;
+  top: 416px;
+}
+.adminoffice .text-11 {
+  left: 1329px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: right;
+  top: 34px;
+}
+.adminoffice .text-12 {
+  letter-spacing: 0px;
+  margin-left: 8px;
+  min-height: 60px;
+  min-width: 427px;
+}
+.adminoffice .text-13 {
+  left: 6px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 19px;
+}
+.adminoffice .text-14 {
+  color: white;
+  font-family: "Kanit", Helvetica;
+  font-size: 35px;
+  left: 978px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 121px;
+}
+.adminoffice .text-15 {
+  left: 991px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 222px;
+}
+.adminoffice .text-16 {
+  left: 991px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 315px;
+}
+.adminoffice .text-17 {
+  left: 991px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 416px;
+}
+.adminoffice .text-18 {
+  left: 385px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 222px;
+}
+.adminoffice .text-2 {
+  letter-spacing: 0.25px;
+  line-height: 21px;
+  margin-bottom: -1px;
+  margin-left: 2px;
+  min-height: 20px;
+  white-space: nowrap;
+  width: 225px;
+}
+.adminoffice .text-3 {
+  letter-spacing: 0.1px;
+  line-height: 21px;
+  margin-bottom: 1px;
+  margin-left: 32px;
+  min-height: 21px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+.adminoffice .text-4 {
+  letter-spacing: 0.1px;
+  line-height: 21px;
+  margin-bottom: 1px;
+  margin-left: 32px;
+  min-height: 21px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+.adminoffice .text-5 {
+  letter-spacing: 0.1px;
+  line-height: 21px;
+  margin-bottom: 3px;
+  margin-left: 32px;
+  min-height: 21px;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.adminoffice .text-6 {
+  letter-spacing: 0.1px;
+  line-height: 21px;
+  margin-bottom: 1px;
+  margin-left: 32px;
+  min-height: 21px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+.adminoffice .text-7 {
+  left: 16px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 75px;
+}
+.adminoffice .text-8 {
+  left: 1320px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: right;
+  top: 227px;
+}
+.adminoffice .text-9 {
+  left: 1320px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: right;
+  top: 315px;
+}
+.adminoffice .vector {
+  height: 16px;
+  width: 15px;
+}
+.adminoffice .vector-1 {
+  height: 18px;
+  width: 18px;
+}
+.adminoffice .vector-2 {
+  height: 21px;
+  width: 21px;
+}
+.adminoffice .vector-3 {
+  height: 20px;
+  width: 20px;
+}
+.adminoffice .wpfadministrator {
+  height: 26px;
+  margin-left: 1px;
+  width: 26px;
+}
+.kanit-light-black-14px {
+  color: var(--black);
+  font-family: "Kanit", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.kanit-light-black-14px-2 {
+  color: black;
+  font-family: "Kanit", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.kanit-light-dodger-blue-14px {
+  color: var(--dodger-blue);
+  font-family: "Kanit", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.kanit-light-star-dust-14px {
+  color: var(--star-dust);
+  font-family: "Kanit", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.kanit-medium-black-40px {
+  color: black;
+  font-family: "Kanit", Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+}
+.kanit-normal-black-35px {
+  color: black;
+  font-family: "Kanit", Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+.kanit-normal-black-40px {
+  color: black;
+  font-family: "Kanit", Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-extra-bold-indigo-19px {
+  color: var(--indigo);
+  font-family: "Montserrat", Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 800;
+}
+.montserrat-semi-bold-neon-carrot-14px {
+  color: var(--neon-carrot);
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
+.opensans-semi-bold-azure-radiance-35px {
+  color: var(--azure-radiance);
+  font-family: "Open Sans", Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --azure-radiance: rgba(0, 122, 233, 1);
+  --black: rgba(0, 0, 0, 0.87);
+  --dodger-blue: rgba(33, 150, 243, 1);
+  --indigo: rgba(82, 101, 206, 1);
+  --mercury: rgba(229, 229, 229, 1);
+  --neon-carrot: rgba(253, 159, 53, 1);
+  --pattens-blue: rgba(227, 242, 253, 1);
+  --star-dust: rgba(158, 158, 158, 1);
+}
